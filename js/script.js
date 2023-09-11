@@ -2,7 +2,7 @@
 const containerBox = document.querySelector('.content')
 
 // creo un ciclo per creare la numerazione da 1 a 100 e creo il div con classe box per tutti
-for(let i = 1; i < 100; i++){
+for(let i = 1; i <= 100; i++){
   let box = document.createElement('div');
   console.log(i);
   box.classList.add('box');
