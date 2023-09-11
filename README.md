@@ -32,3 +32,15 @@ Applica stili differenti agli elementi aggiunti al DOM, a seconda che il valore 
 Se sei a corto di idee per lo stile, potresti prendere spunto dallo screenshot fornito in consegna.
 
 Buon lavoro e buon divertimento! :faccia_leggermente_sorridente:
+
+## PROCEDIMENTO DI LAVORO
+
+1. CSS: creo delle classi sul css da applicare a necessità
+1. JS: creo una variante del contenitore che terrà tutti i box
+1. JS: creo un ciclo per creare la numerazione da 1 a 100 e creo il div con classe box per tutti
+1. JS: creo un ciclo per creare la numerazione da 1 a 100 e creo il div con classe box per tutti
+1. JS: creo le condizioni per i multipli di 3 & 5, di 3, di 5. In questo ordine per dare priorita alla classe assegnata a 3 & 5
+1. stampo su html
+
+
+

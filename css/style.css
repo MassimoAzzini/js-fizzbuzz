@@ -1,3 +1,7 @@
+body {
+  background-color: #083b4c;
+}
+
 .box{
   display: flex;
   justify-content: center;
