@@ -16,11 +16,11 @@ for(let i = 0; i < 100; i++){
 
   }
 
-  if(!((i + 1) % 3)) && (!((i + 1) % 5)){
+  // if(!((i + 1) % 3)) && (!((i + 1) % 5)){
 
-    box.classList.add('fizz-buzz');
+  //   box.classList.add('fizz-buzz');
 
-  }
+  // }
 
   containerBox.append(box);
 
